@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "lock_ap_application_title"
+msgstr "Apparaatvergrendeling"
+
+msgid "lock_error_alphanumeric"
+msgstr "De code moet zowel cijfers als letters bevatten."
+
+msgid "lock_error_emergencycallfails"
+msgstr "Noodoproep niet tot stand gebracht"
+
+msgid "lock_error_history"
+msgstr "Eerder gebruikte codes mogen niet opnieuw worden gebruikt."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Kan de vergrendelingscode niet lezen.\n"
+"De standaardvergrendelingscode wordt hersteld."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Kan de vergrendelingscode niet opslaan.\n"
+"De standaardvergrendelingscode wordt hersteld."
+
+msgid "lock_error_nonalphabetical"
+msgstr "De code moet ten minste %d cijfers of symbolen bevatten"
+
+msgid "lock_error_toosimple"
+msgstr "De code mag niet uit alleen maar cijfers bestaan."
+
+msgid "secu_application_title"
+msgstr "Vergrendelingscode invoeren"
+
+msgid "secu_application_title_changelock1"
+msgstr "Vergrendelingscode"
+
+msgid "secu_ib_autolock_required"
+msgstr ""
+"Het beveiligingsbeleid van Exchange vereist automatische "
+"apparaatvergrendeling."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Codes komen niet overeen"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "De code moet ten minste %d tekens lang zijn."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Vergrendelingscode gewijzigd"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "Vergrendelingscode niet gewijzigd"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "U moet ten minste 5 cijfers invoeren"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Onjuiste code. Na nog een onjuiste poging worden alle gegevens van het "
+"apparaat verwijderd."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Onjuiste code. Na nog twee onjuiste pogingen worden alle gegevens van het "
+"apparaat verwijderd."
+
+msgid "secu_info_closedevice"
+msgstr "Apparaat uitschakelen?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Code geaccepteerd"
+
+msgid "secu_info_enterlock"
+msgstr "Vergrendelingscode invoeren om apparaat te vergrendelen"
+
+msgid "secu_info_incorrectcode"
+msgstr "Onjuiste code"
+
+msgid "secu_info_locked"
+msgstr "Apparaat vergrendeld"
+
+msgid "secu_info_notlocked"
+msgstr "Apparaat niet vergrendeld"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "Noodoproep"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Vergrendelingscode wijzigen"
+
+msgid "secu_security_dialog_title"
+msgstr "Apparaatvergrendeling"
+
+msgid "secu_security_ti_autolock"
+msgstr "Automatisch vergrendelen"
+
+msgid "secu_swipe_to_unlock"
+msgstr "Beweeg om te ontgrendelen"
+
+msgid "secu_ti_changelock_1"
+msgstr "Huidige vergrendelingscode invoeren"
+
+msgid "secu_ti_changelock_2"
+msgstr "Nieuwe vergrendelingscode invoeren"
+
+msgid "secu_ti_changelock_3"
+msgstr "Nieuwe vergrendelingscode controleren"
+
+msgid "secu_va_10minutes"
+msgstr "Na 10 minuten"
+
+msgid "secu_va_1hour"
+msgstr "Na 1 uur"
+
+msgid "secu_va_30minutes"
+msgstr "Na 30 minuten"
+
+msgid "secu_va_5minutes"
+msgstr "Na 5 minuten"
+
+msgid "secu_va_disabled"
+msgstr "Uitgeschakeld"

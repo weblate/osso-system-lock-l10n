@@ -1,0 +1,119 @@
+Source: osso-system-lock-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-system-lock-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-system-lock-l10n-mr
+Depends: osso-system-lock-l10n-ruru, osso-system-lock-l10n-frfr, osso-system-lock-l10n-frca, osso-system-lock-l10n-dadk, osso-system-lock-l10n-itit, osso-system-lock-l10n-svse, osso-system-lock-l10n-nono, osso-system-lock-l10n-fifi, osso-system-lock-l10n-nlnl, osso-system-lock-l10n-enus, osso-system-lock-l10n-dede, osso-system-lock-l10n-esmx, osso-system-lock-l10n-eses, osso-system-lock-l10n-cscz, osso-system-lock-l10n-ptpt, osso-system-lock-l10n-engb, osso-system-lock-l10n-plpl
+Description: osso-system-lock marketing release package
+ This is a metapackage for osso-system-lock to pull all the l10n packages.
+ Application developers of osso-system-lock should depend on
+ "osso-system-lock-l10n-mr0 | osso-system-lock-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-system-lock-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (cs_CZ)
+ Language files for cs_CZ osso-system-lock.
+
+Package: osso-system-lock-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (da_DK)
+ Language files for da_DK osso-system-lock.
+
+Package: osso-system-lock-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (de_DE)
+ Language files for de_DE osso-system-lock.
+
+Package: osso-system-lock-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (en_GB)
+ Language files for en_GB osso-system-lock.
+
+Package: osso-system-lock-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (en_US)
+ Language files for en_US osso-system-lock.
+
+Package: osso-system-lock-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (es_ES)
+ Language files for es_ES osso-system-lock.
+
+Package: osso-system-lock-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (es_MX)
+ Language files for es_MX osso-system-lock.
+
+Package: osso-system-lock-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (fi_FI)
+ Language files for fi_FI osso-system-lock.
+
+Package: osso-system-lock-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (fr_CA)
+ Language files for fr_CA osso-system-lock.
+
+Package: osso-system-lock-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (fr_FR)
+ Language files for fr_FR osso-system-lock.
+
+Package: osso-system-lock-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (it_IT)
+ Language files for it_IT osso-system-lock.
+
+Package: osso-system-lock-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (nl_NL)
+ Language files for nl_NL osso-system-lock.
+
+Package: osso-system-lock-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (no_NO)
+ Language files for no_NO osso-system-lock.
+
+Package: osso-system-lock-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (pl_PL)
+ Language files for pl_PL osso-system-lock.
+
+Package: osso-system-lock-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (pt_PT)
+ Language files for pt_PT osso-system-lock.
+
+Package: osso-system-lock-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (ru_RU)
+ Language files for ru_RU osso-system-lock.
+
+Package: osso-system-lock-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-system-lock (sv_SE)
+ Language files for sv_SE osso-system-lock.

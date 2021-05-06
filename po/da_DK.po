@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "lock_ap_application_title"
+msgstr "Enhedslås"
+
+msgid "lock_error_alphanumeric"
+msgstr "Koden skal indeholde både tal og bogstaver."
+
+msgid "lock_error_emergencycallfails"
+msgstr "Nødopkaldsforbindelse ikke oprettet"
+
+msgid "lock_error_history"
+msgstr "Tidligere koder kan ikke genbruges."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Kan ikke læse låsekoden.\n"
+"Standardlåsekoden gendannes."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Kan ikke gemme låsekoden.\n"
+"Standardlåsekoden gendannes."
+
+msgid "lock_error_nonalphabetical"
+msgstr "Koden skal indeholde mindst %d tal eller symboler"
+
+msgid "lock_error_toosimple"
+msgstr "Koden må ikke udelukkende bestå af tal."
+
+msgid "secu_application_title"
+msgstr "Indtast låsekode"
+
+msgid "secu_application_title_changelock1"
+msgstr "Låsekode"
+
+msgid "secu_ib_autolock_required"
+msgstr "Automatisk enhedslås kræves af Exchange-sikkerhedspolitikken."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Koderne er ikke identiske"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "Koden skal være på mindst %d tegn."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Låsekode ændret"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "Låsekode ikke ændret"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "Der skal indtastes mindst 5 cifre"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Ugyldig kode. Alle data bliver fjernet fra enheden efter den næste ugyldige "
+"indtastning."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Ugyldig kode. Alle data bliver fjernet fra enheden efter yderligere to "
+"ugyldige indtastninger."
+
+msgid "secu_info_closedevice"
+msgstr "Sluk enhed?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Kode accepteret"
+
+msgid "secu_info_enterlock"
+msgstr "Indtast låsekode for at låse enhed"
+
+msgid "secu_info_incorrectcode"
+msgstr "Forkert kode"
+
+msgid "secu_info_locked"
+msgstr "Enheden er låst"
+
+msgid "secu_info_notlocked"
+msgstr "Enheden er ikke låst"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "Nødopkald"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Skift låsekode"
+
+msgid "secu_security_dialog_title"
+msgstr "Enhedslås"
+
+msgid "secu_security_ti_autolock"
+msgstr "Autolås"
+
+msgid "secu_swipe_to_unlock"
+msgstr "Swipe for at låse op"
+
+msgid "secu_ti_changelock_1"
+msgstr "Indtast korrekt låsekode"
+
+msgid "secu_ti_changelock_2"
+msgstr "Indtast ny låsekode"
+
+msgid "secu_ti_changelock_3"
+msgstr "Bekræft ny låsekode"
+
+msgid "secu_va_10minutes"
+msgstr "Efter 10 minutter"
+
+msgid "secu_va_1hour"
+msgstr "Efter 1 time"
+
+msgid "secu_va_30minutes"
+msgstr "Efter 30 minutter"
+
+msgid "secu_va_5minutes"
+msgstr "Efter 5 minutter"
+
+msgid "secu_va_disabled"
+msgstr "Deaktiveret"

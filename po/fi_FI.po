@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "lock_ap_application_title"
+msgstr "Laitteen lukitus"
+
+msgid "lock_error_alphanumeric"
+msgstr "Koodissa on oltava sekä numeroita että kirjaimia."
+
+msgid "lock_error_emergencycallfails"
+msgstr "Hätäpuhelua ei ole muodostettu"
+
+msgid "lock_error_history"
+msgstr "Aiemmin käytettyjä koodeja ei voi käyttää uudelleen."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Lukituskoodia ei voi lukea.\n"
+"Oletuslukituskoodi palautetaan."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Lukituskoodia ei voi tallentaa.\n"
+"Oletuslukituskoodi palautetaan."
+
+msgid "lock_error_nonalphabetical"
+msgstr "Koodissa on oltava vähintään %d numeroa tai symbolia"
+
+msgid "lock_error_toosimple"
+msgstr "Koodissa ei voi olla ainoastaan numeroita."
+
+msgid "secu_application_title"
+msgstr "Anna lukituskoodi"
+
+msgid "secu_application_title_changelock1"
+msgstr "Lukituskoodi"
+
+msgid "secu_ib_autolock_required"
+msgstr "Exchange-suojauskäytäntö edellyttää laitteen automaattista lukitusta."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Koodit eivät täsmää"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "Koodissa on oltava vähintään %d merkkiä."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Lukituskoodi muutettu"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "Lukituskoodia ei ole muutettu"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "Kirjoita vähintään 5 numeroa"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Väärä koodi. Kaikki tiedot poistetaan laitteesta, jos annat väärän koodin "
+"vielä yhden kerran."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Väärä koodi. Kaikki tiedot poistetaan laitteesta, jos annat väärän koodin "
+"vielä kaksi kertaa."
+
+msgid "secu_info_closedevice"
+msgstr "Sammutetaanko laite?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Koodi hyväksytty"
+
+msgid "secu_info_enterlock"
+msgstr "Lukitse laite antamalla lukituskoodi"
+
+msgid "secu_info_incorrectcode"
+msgstr "Väärä koodi"
+
+msgid "secu_info_locked"
+msgstr "Laite lukittu"
+
+msgid "secu_info_notlocked"
+msgstr "Laitetta ei ole lukittu"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "Hätäpuhelu"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Muuta lukituskoodia"
+
+msgid "secu_security_dialog_title"
+msgstr "Laitteen lukitus"
+
+msgid "secu_security_ti_autolock"
+msgstr "Automaattinen lukitus"
+
+msgid "secu_swipe_to_unlock"
+msgstr "Poista lukitus vetämällä sormella"
+
+msgid "secu_ti_changelock_1"
+msgstr "Kirjoita nykyinen lukituskoodi"
+
+msgid "secu_ti_changelock_2"
+msgstr "Kirjoita uusi lukituskoodi"
+
+msgid "secu_ti_changelock_3"
+msgstr "Varmista uusi lukituskoodi"
+
+msgid "secu_va_10minutes"
+msgstr "10 minuutin kuluttua"
+
+msgid "secu_va_1hour"
+msgstr "1 tunnin kuluttua"
+
+msgid "secu_va_30minutes"
+msgstr "30 minuutin kuluttua"
+
+msgid "secu_va_5minutes"
+msgstr "5 minuutin kuluttua"
+
+msgid "secu_va_disabled"
+msgstr "Ei käytössä"

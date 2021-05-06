@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "lock_ap_application_title"
+msgstr "Enhetslås"
+
+msgid "lock_error_alphanumeric"
+msgstr "Koden må inneholde både tall og bokstaver."
+
+msgid "lock_error_emergencycallfails"
+msgstr "Nødsamtale er ikke opprettet"
+
+msgid "lock_error_history"
+msgstr "Koder som har vært brukt tidligere, kan ikke brukes på nytt."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Kan ikke lese låsekoden.\n"
+"Standard låsekode gjenopprettes."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Kan ikke lagre låsekoden.\n"
+"Standard låsekode gjenopprettes."
+
+msgid "lock_error_nonalphabetical"
+msgstr "Koden må inneholde minst %d tall eller symboler"
+
+msgid "lock_error_toosimple"
+msgstr "Koden kan ikke inneholde bare tall."
+
+msgid "secu_application_title"
+msgstr "Skriv inn låsekode"
+
+msgid "secu_application_title_changelock1"
+msgstr "Låsekode"
+
+msgid "secu_ib_autolock_required"
+msgstr "Sikkerhetspolicy for Exchange krever automatisk enhetslås."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Låsekodene samsvarer ikke"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "Koden må inneholde minst %d tegn."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Låsekode endret"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "Låsekode ikke endret"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "Skriv inn minst fem sifre"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Feil kode. Alle data vil bli fjernet fra enheten hvis koden oppgis feil én "
+"gang til."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Feil kode. Alle data vil bli fjernet fra enheten hvis koden oppgis feil to "
+"ganger til."
+
+msgid "secu_info_closedevice"
+msgstr "Slå av enheten?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Kode godkjent"
+
+msgid "secu_info_enterlock"
+msgstr "Skriv inn låsekoden for å låse enheten"
+
+msgid "secu_info_incorrectcode"
+msgstr "Feil kode"
+
+msgid "secu_info_locked"
+msgstr "Enheten er låst"
+
+msgid "secu_info_notlocked"
+msgstr "Enhet er ikke låst"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "Nødsamtale"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Endre låsekode"
+
+msgid "secu_security_dialog_title"
+msgstr "Enhetslås"
+
+msgid "secu_security_ti_autolock"
+msgstr "Lås automatisk"
+
+msgid "secu_swipe_to_unlock"
+msgstr "Skyv for å låse opp"
+
+msgid "secu_ti_changelock_1"
+msgstr "Skriv inn gjeldende låsekode"
+
+msgid "secu_ti_changelock_2"
+msgstr "Skriv inn ny låsekode"
+
+msgid "secu_ti_changelock_3"
+msgstr "Bekreft ny låsekode"
+
+msgid "secu_va_10minutes"
+msgstr "Etter 10 minutter"
+
+msgid "secu_va_1hour"
+msgstr "Etter 1 time"
+
+msgid "secu_va_30minutes"
+msgstr "Etter 30 minutter"
+
+msgid "secu_va_5minutes"
+msgstr "Etter 5 minutter"
+
+msgid "secu_va_disabled"
+msgstr "Deaktivert"

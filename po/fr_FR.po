@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "lock_ap_application_title"
+msgstr "Verrou du terminal"
+
+msgid "lock_error_alphanumeric"
+msgstr "Le code doit contenir à la fois des chiffres et des lettres."
+
+msgid "lock_error_emergencycallfails"
+msgstr "Appel d'urgence non établi"
+
+msgid "lock_error_history"
+msgstr "Les codes déjà utilisés ne peuvent pas être réutilisés."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Impossible de lire le code verrou.\n"
+"Le code verrou par défaut sera restauré."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Impossible d'enregistrer le code verrou.\n"
+"Le code verrou par défaut sera restauré."
+
+msgid "lock_error_nonalphabetical"
+msgstr "Le code doit comporter au moins %d chiffres ou symboles"
+
+msgid "lock_error_toosimple"
+msgstr "Le code ne doit pas contenir uniquement des chiffres."
+
+msgid "secu_application_title"
+msgstr "Code verrou"
+
+msgid "secu_application_title_changelock1"
+msgstr "Code verrou"
+
+msgid "secu_ib_autolock_required"
+msgstr ""
+"Le verrouillage automatique du terminal est requis pas la politique de "
+"sécurité Exchange."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Les codes ne correspondent pas"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "Le code doit comporter au moins %d caractères."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Code verrou modifié"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "Code verrou inchangé"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "Minimum 5 chiffres"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Code incorrect. Toutes les données seront supprimées du terminal après une "
+"autre saisie incorrecte."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Code incorrect. Toutes les données seront supprimées du terminal après deux "
+"autres saisies incorrectes."
+
+msgid "secu_info_closedevice"
+msgstr "Éteindre le terminal ?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Code accepté"
+
+msgid "secu_info_enterlock"
+msgstr "Entrer le code verrou pour verrouiller le terminal"
+
+msgid "secu_info_incorrectcode"
+msgstr "Code incorrect"
+
+msgid "secu_info_locked"
+msgstr "Terminal verrouillé"
+
+msgid "secu_info_notlocked"
+msgstr "Terminal non verrouillé"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "Appel d'urgence"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Modifier le code du verrou"
+
+msgid "secu_security_dialog_title"
+msgstr "Verrou du terminal"
+
+msgid "secu_security_ti_autolock"
+msgstr "Verrouillage auto."
+
+msgid "secu_swipe_to_unlock"
+msgstr "Glisser pour déverrouiller"
+
+msgid "secu_ti_changelock_1"
+msgstr "Entrer le code verrou actuel"
+
+msgid "secu_ti_changelock_2"
+msgstr "Entrer le nouveau code verrou"
+
+msgid "secu_ti_changelock_3"
+msgstr "Vérifier le nouveau code verrou"
+
+msgid "secu_va_10minutes"
+msgstr "Au bout de 10 minutes"
+
+msgid "secu_va_1hour"
+msgstr "Au bout d'1 heure"
+
+msgid "secu_va_30minutes"
+msgstr "Au bout de 30 minutes"
+
+msgid "secu_va_5minutes"
+msgstr "Au bout de 5 minutes"
+
+msgid "secu_va_disabled"
+msgstr "Désactivé"

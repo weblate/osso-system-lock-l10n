@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "lock_ap_application_title"
+msgstr "Blokada urządzenia"
+
+msgid "lock_error_alphanumeric"
+msgstr "Kod musi zawierać zarówno litery, jak i cyfry."
+
+msgid "lock_error_emergencycallfails"
+msgstr "Nie nawiązano połączenia alarmowego"
+
+msgid "lock_error_history"
+msgstr "Nie można ponownie używać poprzednich kodów."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Nie można odczytać kodu blokady.\n"
+"Zostanie przywrócony domyślny kod blokady."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Nie można zapisać kodu blokady.\n"
+"Zostanie przywrócony domyślny kod blokady."
+
+msgid "lock_error_nonalphabetical"
+msgstr "Kod musi zawierać co najmniej %d cyfr lub symboli"
+
+msgid "lock_error_toosimple"
+msgstr "Kod nie może zawierać tylko cyfr."
+
+msgid "secu_application_title"
+msgstr "Wpisz kod blokady"
+
+msgid "secu_application_title_changelock1"
+msgstr "Kod blokady"
+
+msgid "secu_ib_autolock_required"
+msgstr ""
+"Zasady bezpieczeństwa Exchange wymagają włączenia automatycznej blokady "
+"urządzenia."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Kody niezgodne"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "Kod musi zawierać minimum %d znaków."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Zmieniono kod blokady"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "Nie zmieniono kodu blokady"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "Wpisz co najmniej 5 cyfr"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Nieprawidłowy kod. Po kolejnej nieudanej próbie wprowadzenia kodu wszystkie "
+"dane zostaną usunięte z urządzenia."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Nieprawidłowy kod. Po dwóch kolejnych nieudanych próbach wprowadzenia kodu "
+"wszystkie dane zostaną usunięte z urządzenia."
+
+msgid "secu_info_closedevice"
+msgstr "Wyłączyć urządzenie?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Kod przyjęty"
+
+msgid "secu_info_enterlock"
+msgstr "Wpisz kod blokady, aby zablokować urządzenie"
+
+msgid "secu_info_incorrectcode"
+msgstr "Kod nieprawidłowy"
+
+msgid "secu_info_locked"
+msgstr "Urządzenie zablokowane"
+
+msgid "secu_info_notlocked"
+msgstr "Urządzenie nie zostało zablokowane"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "Połączenie alarmowe"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Zmień kod blokady"
+
+msgid "secu_security_dialog_title"
+msgstr "Blokada urządzenia"
+
+msgid "secu_security_ti_autolock"
+msgstr "Blokada automatyczna"
+
+msgid "secu_swipe_to_unlock"
+msgstr "Przesuń palcem po ekranie, aby odblokować"
+
+msgid "secu_ti_changelock_1"
+msgstr "Wprowadź bieżący kod blokady"
+
+msgid "secu_ti_changelock_2"
+msgstr "Wprowadź nowy kod blokady"
+
+msgid "secu_ti_changelock_3"
+msgstr "Potwierdź nowy kod blokady"
+
+msgid "secu_va_10minutes"
+msgstr "Po 10 minutach"
+
+msgid "secu_va_1hour"
+msgstr "Po 1 godzinie"
+
+msgid "secu_va_30minutes"
+msgstr "Po 30 minutach"
+
+msgid "secu_va_5minutes"
+msgstr "Po 5 minutach"
+
+msgid "secu_va_disabled"
+msgstr "Wyłączono"

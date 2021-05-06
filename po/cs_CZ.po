@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "lock_ap_application_title"
+msgstr "Zámek přístroje"
+
+msgid "lock_error_alphanumeric"
+msgstr "Kód musí obsahovat číslice i písmena."
+
+msgid "lock_error_emergencycallfails"
+msgstr "Tísňový hovor nenavázán"
+
+msgid "lock_error_history"
+msgstr "Dříve použité kódy použít nelze."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Kód zámku nelze přečíst.\n"
+"Bude obnoven výchozí kód."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Kód zámku nelze uložit.\n"
+"Bude obnoven výchozí kód."
+
+msgid "lock_error_nonalphabetical"
+msgstr "Délka kódu musí být alespoň %d číslic nebo znaků"
+
+msgid "lock_error_toosimple"
+msgstr "Kód smí obsahovat pouze číslice."
+
+msgid "secu_application_title"
+msgstr "Vložte kód zámku"
+
+msgid "secu_application_title_changelock1"
+msgstr "Kód zámku"
+
+msgid "secu_ib_autolock_required"
+msgstr "Zásady zabezpečení Exchange vyžadují automatický zámek zařízení."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Kódy neodpovídají"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "Délka kódu musí být alespoň %d znaků."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Kód zámku změněn"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "Kód zámku nezměněn"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "Musí být vloženo nejméně 5 číslic"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Nesprávný kód. Po dalším nesprávném pokusu budou všechna data ze zařízení "
+"odstraněna."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Nesprávný kód. Po dalších dvou nesprávných pokusech budou všechna data ze "
+"zařízení odstraněna."
+
+msgid "secu_info_closedevice"
+msgstr "Vypnout přístroj?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Kód přijat"
+
+msgid "secu_info_enterlock"
+msgstr "Vložte kód zámku pro uzamčení přístroje"
+
+msgid "secu_info_incorrectcode"
+msgstr "Nesprávný kód"
+
+msgid "secu_info_locked"
+msgstr "Přístroj uzamčen"
+
+msgid "secu_info_notlocked"
+msgstr "Přístroj neuzamčen"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "Tísňový hovor"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Změňte kód zámku"
+
+msgid "secu_security_dialog_title"
+msgstr "Zámek přístroje"
+
+msgid "secu_security_ti_autolock"
+msgstr "Automatické uzamčení"
+
+msgid "secu_swipe_to_unlock"
+msgstr "Odemkněte posunem"
+
+msgid "secu_ti_changelock_1"
+msgstr "Vložte aktuální kód zámku"
+
+msgid "secu_ti_changelock_2"
+msgstr "Vložte nový kód zámku"
+
+msgid "secu_ti_changelock_3"
+msgstr "Potvrďte nový kód zámku"
+
+msgid "secu_va_10minutes"
+msgstr "Po 10 minutách"
+
+msgid "secu_va_1hour"
+msgstr "Po 1 hodině"
+
+msgid "secu_va_30minutes"
+msgstr "Po 30 minutách"
+
+msgid "secu_va_5minutes"
+msgstr "Po 5 minutách"
+
+msgid "secu_va_disabled"
+msgstr "Vypnuto"

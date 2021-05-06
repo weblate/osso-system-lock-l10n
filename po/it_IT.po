@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "lock_ap_application_title"
+msgstr "Protezione dispositivo"
+
+msgid "lock_error_alphanumeric"
+msgstr "È necessario che il codice contenga numeri e lettere."
+
+msgid "lock_error_emergencycallfails"
+msgstr "Chiamata d'emergenza non stabilita"
+
+msgid "lock_error_history"
+msgstr ""
+"Non è possibile utilizzare di nuovo i codici utilizzati precedentemente."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Impossibile leggere il codice di protezione.\n"
+"Verrà ripristinato il codice predefinito."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Impossibile salvare il codice di protezione.\n"
+"Verrà ripristinato il codice predefinito."
+
+msgid "lock_error_nonalphabetical"
+msgstr "È necessario che il codice contenga almeno %d numeri o simboli"
+
+msgid "lock_error_toosimple"
+msgstr "È necessario che il codice non contenga soli numeri."
+
+msgid "secu_application_title"
+msgstr "Codice di protezione"
+
+msgid "secu_application_title_changelock1"
+msgstr "Modifica del codice di protezione"
+
+msgid "secu_ib_autolock_required"
+msgstr ""
+"In base alla normativa di Exchange è necessaria la protezione automatica del "
+"dispositivo."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Codici non corrispondenti"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "È necessario che il codice sia di almeno %d caratteri."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Codice di protezione modificato"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "Il codice di protezione non è stato modificato"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "Inserire almeno 5 cifre"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Codice errato. Tutti i dati verranno rimossi dal dispositivo dopo una voce "
+"errata."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Codice errato. Tutti i dati verranno rimossi dal dispositivo dopo due o più "
+"voci errate."
+
+msgid "secu_info_closedevice"
+msgstr "Spegnere il dispositivo?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Codice accettato"
+
+msgid "secu_info_enterlock"
+msgstr "Inserire il codice di protezione per bloccare il dispositivo"
+
+msgid "secu_info_incorrectcode"
+msgstr "Codice errato"
+
+msgid "secu_info_locked"
+msgstr "Dispositivo bloccato"
+
+msgid "secu_info_notlocked"
+msgstr "Dispositivo non bloccato"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr ""
+"Chiam. di\n"
+"emergenza"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Cambia il codice di protezione"
+
+msgid "secu_security_dialog_title"
+msgstr "Protezione dispositivo"
+
+msgid "secu_security_ti_autolock"
+msgstr "Protezione automatica"
+
+msgid "secu_swipe_to_unlock"
+msgstr "Far scorrere per sbloccare"
+
+msgid "secu_ti_changelock_1"
+msgstr "Inserisci il codice di protezione attuale"
+
+msgid "secu_ti_changelock_2"
+msgstr "Inserire il nuovo codice di protezione"
+
+msgid "secu_ti_changelock_3"
+msgstr "Verificare il nuovo codice di protezione"
+
+msgid "secu_va_10minutes"
+msgstr "Dopo 10 minuti"
+
+msgid "secu_va_1hour"
+msgstr "Dopo 1 ora"
+
+msgid "secu_va_30minutes"
+msgstr "Dopo 30 minuti"
+
+msgid "secu_va_5minutes"
+msgstr "Dopo 5 minuti"
+
+msgid "secu_va_disabled"
+msgstr "Disattivata"

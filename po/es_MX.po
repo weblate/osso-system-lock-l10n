@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator:\n"
+"Language-Team: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "lock_ap_application_title"
+msgstr "Bloqueo del dispositivo"
+
+msgid "lock_error_alphanumeric"
+msgstr "El código debe tener tanto números como letras."
+
+msgid "lock_error_emergencycallfails"
+msgstr "No se ha establecido llamada de emergencia"
+
+msgid "lock_error_history"
+msgstr "No se puede volver a utilizar ningún código anterior."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Imposible leer el código de bloqueo.\n"
+"Se restaurará el código de bloqueo predeterminado."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Imposible guardar el código de bloqueo.\n"
+"Se restaurará el código de bloqueo predeterminado."
+
+msgid "lock_error_nonalphabetical"
+msgstr "El código debe tener al menos %d números o símbolos"
+
+msgid "lock_error_toosimple"
+msgstr "El código no puede consistir de números solamente."
+
+msgid "secu_application_title"
+msgstr "Desbloquear"
+
+msgid "secu_application_title_changelock1"
+msgstr "Código de bloqueo"
+
+msgid "secu_ib_autolock_required"
+msgstr ""
+"La política de seguridad de Exchange requiere el bloqueo automático del "
+"dispositivo."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Los códigos no coinciden"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "El código debe tener al menos %d caracteres."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Código de bloqueo cambiado"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "El código de bloqueo no se ha cambiado"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "Se deben introducir al menos 5 dígitos"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Código incorrecto. Se borrarán todos los datos del dispositivo tras otro "
+"intento fallido."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Código incorrecto. Se borrarán todos los datos del dispositivo tras dos "
+"intentos más fallidos."
+
+msgid "secu_info_closedevice"
+msgstr "¿Apagar el dispositivo?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Código aceptado"
+
+msgid "secu_info_enterlock"
+msgstr "Introducir código para bloquear dispositivo"
+
+msgid "secu_info_incorrectcode"
+msgstr "Código incorrecto"
+
+msgid "secu_info_locked"
+msgstr "Dispositivo bloqueado"
+
+msgid "secu_info_notlocked"
+msgstr "Dispositivo no bloqueado"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "Llamada de emergencia"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Cambiar código de bloqueo"
+
+msgid "secu_security_dialog_title"
+msgstr "Bloqueo del dispositivo"
+
+msgid "secu_security_ti_autolock"
+msgstr "Bloqueo automático"
+
+msgid "secu_swipe_to_unlock"
+msgstr "Desbloquear"
+
+msgid "secu_ti_changelock_1"
+msgstr "Introducir código de bloqueo actual"
+
+msgid "secu_ti_changelock_2"
+msgstr "Introducir nuevo código de bloqueo "
+
+msgid "secu_ti_changelock_3"
+msgstr "Verificar nuevo código de bloqueo"
+
+msgid "secu_va_10minutes"
+msgstr "Tras 10 minutos"
+
+msgid "secu_va_1hour"
+msgstr "Tras 1 hora"
+
+msgid "secu_va_30minutes"
+msgstr "Tras 30 minutos"
+
+msgid "secu_va_5minutes"
+msgstr "Tras 5 minutos"
+
+msgid "secu_va_disabled"
+msgstr "Desactivado"
