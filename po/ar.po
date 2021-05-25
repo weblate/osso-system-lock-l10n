@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20090529140926\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2010-04-28 01:47+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "lock_ap_application_title"
+msgstr "قفل الجهاز"
+
+msgid "lock_error_emergencycallfails"
+msgstr "مكالمات الطوارئ غير مسموح بها"
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"غير قادر على قراءة رمز القفل.\n"
+"سوف يتم أستعادة رمز القفل الأفتراضي."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"غير قادر على حفظ رمز القفل.\n"
+"سوف يتم أستعادة رمز القفل الأفتراضي."
+
+msgid "secu_application_title"
+msgstr "أدخل رمز القفل"
+
+msgid "secu_application_title_changelock1"
+msgstr "رمز القفل"
+
+msgid "secu_ib_codedonotmatch"
+msgstr "الرمز غير صحيح"
+
+msgid "secu_ib_lockcodechanged"
+msgstr "تم تغير رمز القفل"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "لم يتم تغير رمز القفل"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "أدخل 5 حروف أو أرقام"
+
+msgid "secu_info_closedevice"
+msgstr "أغلاق الجهاز?"
+
+msgid "secu_info_codeaccepted"
+msgstr "تم قبول الرمز"
+
+msgid "secu_info_enterlock"
+msgstr "أدخل رمز القفل لأقفال الجهاز"
+
+msgid "secu_info_incorrectcode"
+msgstr "خطأ في الرمز"
+
+msgid "secu_info_locked"
+msgstr "الجهاز مقفول"
+
+msgid "secu_info_notlocked"
+msgstr "الجهاز غير مقفول"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "مكالمات الطوارئ"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "تغير رمز القفل"
+
+msgid "secu_security_dialog_title"
+msgstr "قفل الجهاز"
+
+msgid "secu_security_ti_autolock"
+msgstr "القفل الآلى"
+
+msgid "secu_swipe_to_unlock"
+msgstr "اسحب لفتح القفل"
+
+msgid "secu_ti_changelock_1"
+msgstr "أدخل رمز القفل الحالى"
+
+msgid "secu_ti_changelock_2"
+msgstr "أدخل رمز القفل الجديد"
+
+msgid "secu_ti_changelock_3"
+msgstr "تأكيد رمز القفل الجديد"
+
+msgid "secu_va_10minutes"
+msgstr "بعد 10 دقائق"
+
+msgid "secu_va_1hour"
+msgstr "بعد ساعة"
+
+msgid "secu_va_30minutes"
+msgstr "بعد 30 دقيقة"
+
+msgid "secu_va_5minutes"
+msgstr "بعد 5 دقائق"
+
+msgid "secu_va_disabled"
+msgstr "تعطيل"
+
