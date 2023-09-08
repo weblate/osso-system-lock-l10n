@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20100202105257\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.02 10:52+0200\n"
+"PO-Revision-Date: 2010.02.02 10:52+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+msgid "lock_ap_application_title"
+msgstr ""
+
+msgid "lock_error_alphanumeric"
+msgstr ""
+
+msgid "lock_error_emergencycallfails"
+msgstr ""
+
+msgid "lock_error_history"
+msgstr ""
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+
+msgid "lock_error_nonalphabetical"
+msgstr ""
+
+msgid "lock_error_toosimple"
+msgstr ""
+
+msgid "secu_application_title"
+msgstr ""
+
+msgid "secu_application_title_changelock1"
+msgstr ""
+
+msgid "secu_ib_autolock_required"
+msgstr ""
+
+msgid "secu_ib_codedonotmatch"
+msgstr ""
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr ""
+
+msgid "secu_ib_lockcodechanged"
+msgstr ""
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr ""
+
+msgid "secu_ib_lockcodetooshort"
+msgstr ""
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+
+msgid "secu_info_closedevice"
+msgstr ""
+
+msgid "secu_info_codeaccepted"
+msgstr ""
+
+msgid "secu_info_enterlock"
+msgstr ""
+
+msgid "secu_info_incorrectcode"
+msgstr ""
+
+msgid "secu_info_locked"
+msgstr ""
+
+msgid "secu_info_notlocked"
+msgstr ""
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr ""
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr ""
+
+msgid "secu_security_dialog_title"
+msgstr ""
+
+msgid "secu_security_ti_autolock"
+msgstr ""
+
+msgid "secu_swipe_to_unlock"
+msgstr ""
+
+msgid "secu_ti_changelock_1"
+msgstr ""
+
+msgid "secu_ti_changelock_2"
+msgstr ""
+
+msgid "secu_ti_changelock_3"
+msgstr ""
+
+msgid "secu_va_10minutes"
+msgstr ""
+
+msgid "secu_va_1hour"
+msgstr ""
+
+msgid "secu_va_30minutes"
+msgstr ""
+
+msgid "secu_va_5minutes"
+msgstr ""
+
+msgid "secu_va_disabled"
+msgstr ""
