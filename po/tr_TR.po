@@ -33,14 +33,16 @@ msgstr ""
 "Project-Id-Version: osso-system-lock 20090529140926\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.29 14:09+0300\n"
-"PO-Revision-Date: 2010-05-29 22:21+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-system-lock-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
-
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 # Application name of Lock
 msgid "lock_ap_application_title"
@@ -59,7 +61,7 @@ msgid "lock_error_toosimple"
 msgstr "Kod sadece sayıdan oluşamaz."
 
 msgid "secu_ib_autolock_required"
-msgstr "Exchange güvenlik politikasına göre Otomatik cihaz kilidi gerekli."
+msgstr "Exchange güvenlik politikasına göre Otomatik aygıt kilidi gerekli."
 
 msgid "secu_ib_lock_code_shorter_than"
 msgstr "Kod uzunluğu en az %d karakter olmalıdır."
@@ -70,7 +72,7 @@ msgstr "Kilit kodunuzu girin"
 
 # "Device locked" information banner when device is locked
 msgid "secu_info_locked"
-msgstr "Cihaz kilitlendi"
+msgstr "Aygıt kilitlendi"
 
 # ‘Enter lock code to lock the device’ information banner
 msgid "secu_info_enterlock"
@@ -126,13 +128,11 @@ msgstr "Kilit kodu en az 5 haneli olmalıdır"
 
 msgid "secu_in_device_wipe_one_try"
 msgstr ""
-"Geçersiz kod. Cihazdaki tüm veri bir dahaki geçersiz denemede "
-"silinecek."
+"Geçersiz kod. Aygıttaki tüm veri bir dahaki geçersiz denemede silinecek."
 
 msgid "secu_in_device_wipe_two_tries"
 msgstr ""
-"Geçersiz kod. Cihazdaki tüm veri iki geçersiz denemeden sonra "
-"silinecek."
+"Geçersiz kod. Aygıttaki tüm veri iki geçersiz denemeden sonra silinecek."
 
 # Information banner when user has entered wrong lock code to the dialog that ask user to verify new code.
 msgid "secu_ib_codedonotmatch"
