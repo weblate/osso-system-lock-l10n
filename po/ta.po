@@ -3,122 +3,132 @@ msgstr ""
 "Project-Id-Version: osso-system-lock 20100202105257\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.02 10:52+0200\n"
-"PO-Revision-Date: 2010.02.02 10:52+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 19:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-system-lock-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "lock_ap_application_title"
-msgstr ""
+msgstr "சாதன பூட்டு"
 
 msgid "lock_error_alphanumeric"
-msgstr ""
+msgstr "குறியீட்டில் எண்கள் மற்றும் எழுத்துக்கள் இரண்டுமே இருக்க வேண்டும்."
 
 msgid "lock_error_emergencycallfails"
-msgstr ""
+msgstr "அவசர அழைப்பு நிறுவப்படவில்லை"
 
 msgid "lock_error_history"
-msgstr ""
+msgstr "முன்னர் பயன்படுத்தப்பட்ட குறியீடுகளை மீண்டும் பயன்படுத்த முடியாது."
 
 msgid "lock_error_internalstorageread"
 msgstr ""
+"பூட்டு குறியீட்டைப் படிக்க முடியவில்லை.\n"
+" இயல்புநிலை பூட்டு குறியீடு மீட்டமைக்கப்படும்."
 
 msgid "lock_error_internalstoragewrite"
 msgstr ""
+"பூட்டு குறியீட்டை சேமிக்க முடியவில்லை.\n"
+" இயல்புநிலை பூட்டு குறியீடு மீட்டமைக்கப்படும்."
 
 msgid "lock_error_nonalphabetical"
-msgstr ""
+msgstr "குறியீட்டில் குறைந்தது %d எண்கள் அல்லது சின்னங்கள் இருக்க வேண்டும்"
 
 msgid "lock_error_toosimple"
-msgstr ""
+msgstr "குறியீட்டில் எண்கள் மட்டுமே இருக்கக்கூடாது."
 
 msgid "secu_application_title"
-msgstr ""
+msgstr "பூட்டு குறியீட்டை உள்ளிடவும்"
 
 msgid "secu_application_title_changelock1"
-msgstr ""
+msgstr "பூட்டு குறியீடு"
 
 msgid "secu_ib_autolock_required"
-msgstr ""
+msgstr "பரிமாற்ற பாதுகாப்புக் கொள்கையால் தானியங்கி சாதன பூட்டு தேவைப்படுகிறது."
 
 msgid "secu_ib_codedonotmatch"
-msgstr ""
+msgstr "குறியீடுகள் பொருந்தவில்லை"
 
 msgid "secu_ib_lock_code_shorter_than"
-msgstr ""
+msgstr "குறியீடு நீளம் குறைந்தது %d எழுத்துக்கள் இருக்க வேண்டும்."
 
 msgid "secu_ib_lockcodechanged"
-msgstr ""
+msgstr "பூட்டு குறியீடு மாற்றப்பட்டது"
 
 msgid "secu_ib_lockcodenotchanged"
-msgstr ""
+msgstr "பூட்டு குறியீடு மாற்றப்படவில்லை"
 
 msgid "secu_ib_lockcodetooshort"
-msgstr ""
+msgstr "குறைந்தது 5 இலக்கங்களை உள்ளிட வேண்டும்"
 
 msgid "secu_in_device_wipe_one_try"
 msgstr ""
+"தவறான குறியீடு. இன்னும் ஒரு தவறான நுழைவுக்குப் பிறகு எல்லா தரவுகளும் சாதனத்திலிருந்து "
+"அகற்றப்படும்."
 
 msgid "secu_in_device_wipe_two_tries"
 msgstr ""
+"தவறான குறியீடு. மேலும் இரண்டு தவறான உள்ளீடுகளுக்குப் பிறகு எல்லா தரவுகளும் "
+"சாதனத்திலிருந்து அகற்றப்படும்."
 
 msgid "secu_info_closedevice"
-msgstr ""
+msgstr "சாதனத்தை அணைக்கவா?"
 
 msgid "secu_info_codeaccepted"
-msgstr ""
+msgstr "குறியீடு ஏற்றுக்கொள்ளப்பட்டது"
 
 msgid "secu_info_enterlock"
-msgstr ""
+msgstr "சாதனத்திற்கு பூட்டு குறியீட்டை உள்ளிடவும்"
 
 msgid "secu_info_incorrectcode"
-msgstr ""
+msgstr "தவறான குறியீடு"
 
 msgid "secu_info_locked"
-msgstr ""
+msgstr "சாதனம் பூட்டப்பட்டுள்ளது"
 
 msgid "secu_info_notlocked"
-msgstr ""
+msgstr "சாதனம் பூட்டப்படவில்லை"
 
 msgid "secu_lock_code_dialog_emergency_call"
-msgstr ""
+msgstr "அவசர அழைப்பு"
 
 msgid "secu_security_autolock_dialog_change_lock_code"
-msgstr ""
+msgstr "பூட்டு குறியீட்டை மாற்றவும்"
 
 msgid "secu_security_dialog_title"
-msgstr ""
+msgstr "சாதன பூட்டு"
 
 msgid "secu_security_ti_autolock"
-msgstr ""
+msgstr "ஆட்டோலாக்"
 
 msgid "secu_swipe_to_unlock"
-msgstr ""
+msgstr "திறக்க ச்வைப் செய்யவும்"
 
 msgid "secu_ti_changelock_1"
-msgstr ""
+msgstr "தற்போதைய பூட்டு குறியீட்டை உள்ளிடவும்"
 
 msgid "secu_ti_changelock_2"
-msgstr ""
+msgstr "புதிய பூட்டு குறியீட்டை உள்ளிடவும்"
 
 msgid "secu_ti_changelock_3"
-msgstr ""
+msgstr "புதிய பூட்டு குறியீட்டை சரிபார்க்கவும்"
 
 msgid "secu_va_10minutes"
-msgstr ""
+msgstr "10 நிமிடங்களுக்குப் பிறகு"
 
 msgid "secu_va_1hour"
-msgstr ""
+msgstr "1 மணி நேரம் கழித்து"
 
 msgid "secu_va_30minutes"
-msgstr ""
+msgstr "30 நிமிடங்களுக்குப் பிறகு"
 
 msgid "secu_va_5minutes"
-msgstr ""
+msgstr "5 நிமிடங்களுக்குப் பிறகு"
 
 msgid "secu_va_disabled"
-msgstr ""
+msgstr "முடக்கப்பட்டது"
